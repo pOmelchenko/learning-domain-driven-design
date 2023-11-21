@@ -7,7 +7,7 @@
   - [x] [Глава 4.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/4) Интеграция ограниченных контекстов
 - [ ] Часть 1. Тактический замысел
   - [x] [Глава 5.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/5) Реализация простой бизнес-логики
-  - [ ] [Глава 6.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/6) Проработка сложной бизнес-логики
+  - [x] [Глава 6.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/6) Проработка сложной бизнес-логики
   - [ ] [Глава 7.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/7) Моделирование фартора времени
   - [ ] [Глава 8.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/8) Архитектурные паттерны
   - [ ] [Глава 9.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/9) Паттерны взаимодействия
