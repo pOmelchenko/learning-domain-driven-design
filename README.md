@@ -9,7 +9,7 @@
   - [x] [Глава 5.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/5) Реализация простой бизнес-логики
   - [x] [Глава 6.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/6) Проработка сложной бизнес-логики
   - [x] [Глава 7.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/7) Моделирование фартора времени
-  - [ ] [Глава 8.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/8) Архитектурные паттерны
+  - [x] [Глава 8.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/8) Архитектурные паттерны
   - [ ] [Глава 9.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/9) Паттерны взаимодействия
 - [ ] Часть 3. Применение предметно-ориентированного проектирования на практике
   - [ ] [Глава 10.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/10) Эвристика проектирования
