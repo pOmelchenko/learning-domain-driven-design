@@ -5,12 +5,12 @@
   - [x] [Глава 2.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/2) Экспертные знания о предметной области
   - [x] [Глава 3.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/3) Как осмыслить сложность предметной области
   - [x] [Глава 4.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/4) Интеграция ограниченных контекстов
-- [ ] Часть 1. Тактический замысел
+- [x] Часть 1. Тактический замысел
   - [x] [Глава 5.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/5) Реализация простой бизнес-логики
   - [x] [Глава 6.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/6) Проработка сложной бизнес-логики
   - [x] [Глава 7.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/7) Моделирование фартора времени
   - [x] [Глава 8.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/8) Архитектурные паттерны
-  - [ ] [Глава 9.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/9) Паттерны взаимодействия
+  - [x] [Глава 9.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/9) Паттерны взаимодействия
 - [ ] Часть 3. Применение предметно-ориентированного проектирования на практике
   - [ ] [Глава 10.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/10) Эвристика проектирования
   - [ ] [Глава 11.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/11) Эволюция проектных решений
