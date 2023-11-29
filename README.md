@@ -11,10 +11,10 @@
   - [x] [Глава 7.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/7) Моделирование фартора времени
   - [x] [Глава 8.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/8) Архитектурные паттерны
   - [x] [Глава 9.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/9) Паттерны взаимодействия
-- [ ] Часть 3. Применение предметно-ориентированного проектирования на практике
-  - [ ] [Глава 10.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/10) Эвристика проектирования
-  - [ ] [Глава 11.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/11) Эволюция проектных решений
-  - [ ] [Глава 12.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/12) EventStorming
+- [x] Часть 3. Применение предметно-ориентированного проектирования на практике
+  - [x] [Глава 10.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/10) Эвристика проектирования
+  - [x] [Глава 11.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/11) Эволюция проектных решений
+  - [x] [Глава 12.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/12) EventStorming
   - [ ] [Глава 13.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/13) Предметно-ориентированное проектирование на практике
 - [ ] Часть 4. Взаимоотношения с другими методологиями
   - [ ] [Глава 14.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/14) Микросервисы
