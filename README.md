@@ -16,10 +16,10 @@
   - [x] [Глава 11.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/11) Эволюция проектных решений
   - [x] [Глава 12.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/12) EventStorming
   - [x] [Глава 13.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/13) Предметно-ориентированное проектирование на практике
-- [ ] Часть 4. Взаимоотношения с другими методологиями
+- [x] Часть 4. Взаимоотношения с другими методологиями
   - [x] [Глава 14.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/14) Микросервисы
   - [x] [Глава 15.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/15) Событийно-ориентированная архитектура
-  - [ ] [Глава 16.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/16) Сеть данных (Data Mesh)
+  - [x] [Глава 16.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/16) Сеть данных (Data Mesh)
 - [ ] [Заключение](https://github.com/pOmelchenko/learning-domain-driven-design/issues/17)
 - [ ] [Приложение 1.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/19) Применение DDD: пример из практики
 - [ ] [Приложение 2.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/19) Ответы на вопросы упражнений
