@@ -20,7 +20,7 @@
   - [x] [Глава 14.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/14) Микросервисы
   - [x] [Глава 15.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/15) Событийно-ориентированная архитектура
   - [x] [Глава 16.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/16) Сеть данных (Data Mesh)
-- [ ] [Заключение](https://github.com/pOmelchenko/learning-domain-driven-design/issues/17)
-- [ ] [Приложение 1.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/19) Применение DDD: пример из практики
+- [x] [Заключение](https://github.com/pOmelchenko/learning-domain-driven-design/issues/17)
+- [x] [Приложение 1.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/19) Применение DDD: пример из практики
 - [ ] [Приложение 2.](https://github.com/pOmelchenko/learning-domain-driven-design/issues/19) Ответы на вопросы упражнений
   
